@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Days 30</string>
+
+    <string name="day1">Day 1</string>
+    <string name="day2">Day 2</string>
+    <string name="day3">Day 3</string>
+    <string name="day4">Day 4</string>
+    <string name="day5">Day 5</string>
+
+    <string name="day_main1">Day Main 1</string>
+    <string name="day_main2">Day Main 2</string>
+    <string name="day_main3">Day Main 3</string>
+    <string name="day_main4">Day Main 4</string>
+    <string name="day_main5">Day Main 5</string>
+
+    <string name="day_sub1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</string>
+    <string name="day_sub2">text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has</string>
+    <string name="day_sub3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</string>
+    <string name="day_sub4">text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has</string>
+    <string name="day_sub5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</string>
+    <string name="expand_button_content_description">Expand more or less</string>
+
+
+</resources>
